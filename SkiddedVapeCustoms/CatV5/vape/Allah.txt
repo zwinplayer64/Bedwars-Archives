@@ -1,0 +1,5 @@
+leaked by allahleaks in order to use please extract this file to your workspace and replace all once that is done join a game and execute this:
+
+halal = loadstring(readfile("vape/NewMainScript.lua"))
+sex = pcall
+sex(halal)

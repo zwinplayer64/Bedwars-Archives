@@ -1,0 +1,17 @@
+repeat task.wait() until shared.GuiLibrary
+local GuiLibrary = shared.GuiLibrary
+local COB = function(tab, argstable) 
+    return GuiLibrary["ObjectsThatCanBeSaved"][tab.."Window"]["Api"].CreateOptionsButton(argstable)
+end
+
+COB("World", {
+    Name = "Night",
+    HoverText = "Sets Day to night",
+    Function = function(v)
+        if v then
+            game.Lighting.TimeOfDay = "00:00:00"
+        else
+            game.Lighting.TimeOfDay = "13:00:00"
+        end
+    end
+})

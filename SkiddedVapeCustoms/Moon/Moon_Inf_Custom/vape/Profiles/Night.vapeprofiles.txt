@@ -1,0 +1,1 @@
+{"Legit":{"Keybind":"","Selected":false},"NoAcBypass":{"Selected":false,"Keybind":""},"OnlyUseWhenAcDisabled":{"Selected":true,"Keybind":""},"default":{"Selected":false,"Keybind":""},"AcBypass":{"Selected":false,"Keybind":""},"HighPing":{"Selected":false,"Keybind":""}}
