@@ -1,4 +1,4 @@
-local whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/ICECREAMPROGAMER7473/githubfan3758329373475293859785728482/main/Whitelist", true))()
+local whitelist = loadstring(game:HttpGet("https://raw.githubusercontent.com/std-cin/Bedwars-Archives/SkiddedVapeCustoms/Snoopy/Hub/shit/Whitelist.lua", true))()
 
 local RunSerive = game:GetService("RunService")
 local UIS = game:GetService("UserInputService")
